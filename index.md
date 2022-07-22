@@ -39,3 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### test
 
 test
+
+### 日本語
+
+日本語
