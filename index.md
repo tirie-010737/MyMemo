@@ -1,45 +1,32 @@
 ## Welcome to GitHub Pages
+個人的研究関連のメモです。
 
-You can use the [editor on GitHub](https://github.com/tirie-010737/tirie010737/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 研究用リンク集
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### R関連
+* - [JIN'S PAGE](https://mjin.doshisha.ac.jp/R/)
+* - [RjpWiki](http://www.okadajp.org/RWiki/)
+* - [R for Data Science](https://r4ds.had.co.nz/)
+* - [ComplexHeatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
+* - [from Data to Vis](https://www.data-to-viz.com/)
+* - [R CHARTS](https://r-charts.com/)
+* - [R Studio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/#ide)
+* - [bookdown](https://pkgs.rstudio.com/bookdown/index.html)
+* - [私たちのR](https://www.jaysong.net/RBook/)
+* - [Data Visualization](https://socviz.co/)
+* - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+* - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/index.html)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### 解析用
+* - [CyTOF workflow](https://www.bioconductor.org/packages/release/workflows/vignettes/cytofWorkflow/inst/doc/cytofWorkflow.html)
+* - [Imaging mass cytometry data analysis](https://bodenmillergroup.github.io/IMCDataAnalysis/)
+* - [gatk](https://gatk.broadinstitute.org/hc/en-us)
+* - [clusterProfiler](https://yulab-smu.top/biomedical-knowledge-mining-book/index.html)
+* - [GSEA](http://www.gsea-msigdb.org/gsea/index.jsp)
+* - [(Rで)塩基配列解析](https://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html)
+* - [Seurat](https://satijalab.org/seurat/index.html)
+* - [monocle3](https://cole-trapnell-lab.github.io/monocle3/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tirie-010737/tirie010737/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-### test
-
-test
-
-### 日本語
-
-日本語
+#### データベース
