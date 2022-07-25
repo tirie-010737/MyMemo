@@ -4,16 +4,7 @@
 
 #### R関連
 
--   [JIN'S PAGE](https://mjin.doshisha.ac.jp/R/)
--   [R-Tips](http://stat.sys.i.kyoto-u.ac.jp/titech/class/doc/r-tips.pdf)
-
-研究始めた頃にお世話になった資料。今では古いかもしれない
-
--   [RjpWiki](http://www.okadajp.org/RWiki/)
 -   [R for Data Science](https://r4ds.had.co.nz/)
--   [ComplexHeatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
--   [from Data to Vis](https://www.data-to-viz.com/)
--   [The R Graph Gallery](https://r-graph-gallery.com/index.html)
 -   [R CHARTS](https://r-charts.com/)
 -   [R Studio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/#ide)
 -   [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
@@ -22,21 +13,33 @@
 -   [Advanced R](https://adv-r.hadley.nz/index.html)
 -   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 -   [Applied Statistics with R](https://book.stat420.org/)
--   [ggplot2](https://ggplot2-book.org/index.html)
 -   [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 -   [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
--   [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/)
--   [私たちのR](https://www.jaysong.net/RBook/)
--   [Data Visualization](https://socviz.co/)
 -   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 -   [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/index.html)
+
+##### 日本語
+
+-   [JIN'S PAGE](https://mjin.doshisha.ac.jp/R/)
+-   [R-Tips](http://stat.sys.i.kyoto-u.ac.jp/titech/class/doc/r-tips.pdf)
+-   [RjpWiki](http://www.okadajp.org/RWiki/)
+-   [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/)
+-   [私たちのR](https://www.jaysong.net/RBook/)
 -   [からだにいいもの](https://www.karada-good.net/)
 -   [Kazutan.R](https://kazutan.github.io/kazutanR/index.html)
 -   [R Markdown クックブック](https://gedevan-aleksizde.github.io/rmarkdown-cookbook/)
 -   [knitr](https://gedevan-aleksizde.github.io/knitr-doc-ja/index.html)
--   [htmlwidgets for R](http://gallery.htmlwidgets.org/)
+
+##### visualization関連
+
+-   [ggplot2](https://ggplot2-book.org/index.html)
+-   [ComplexHeatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
+-   [from Data to Vis](https://www.data-to-viz.com/)
+-   [The R Graph Gallery](https://r-graph-gallery.com/index.html)
 -   [COLOR BREWER](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 -   [Statistical tools for high-throughput data analysis](http://www.sthda.com/english/)
+-   [htmlwidgets for R](http://gallery.htmlwidgets.org/)
+-   [Data Visualization](https://socviz.co/)
 
 #### 生物学解析用
 
@@ -88,3 +91,5 @@
 -   [JAPAR](https://jaspar.genereg.net/)
 -   [HumanTFDB](http://bioinfo.life.hust.edu.cn/HumanTFDB#!/)
 -   [The Human Transcription Factors](http://humantfs.ccbr.utoronto.ca/)
+
+---
